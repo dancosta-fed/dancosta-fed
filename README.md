@@ -39,7 +39,7 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
  <a href="https://instagram.com/_dancosta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <hr>
 
-## 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; My Tech Stack
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width=40 /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 /> 
@@ -53,11 +53,14 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width=40 /> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">
 
+# Improving
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <br><br>
 <hr>
 
-## ⚙️ &nbsp; Git Analytics
+## ⚙️ &nbsp; My Git Analytics
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=dancosta-fed&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dancosta-fed&theme=blueberry_duo"/>
