@@ -34,7 +34,7 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 <br><br>
 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-rossiter-calazans/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-costa-dev)
 
 <hr>
 
@@ -49,6 +49,6 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 ## ⚙️ &nbsp; Git Analytics
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=thiagocal&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagocal&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dancosta-fed&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dancosta-fed&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocal&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancosta-fed&layout=compact&theme=github_dark"/>|
