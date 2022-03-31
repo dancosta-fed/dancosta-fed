@@ -53,7 +53,7 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width=40 /> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">
 
-# Improving
+### Improving
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/>
 
