@@ -31,6 +31,21 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 - 🙂 Also learning and practicing TDD
 - 🤓 I'm looking forward to work and collaborate in new projects
 - 🏄‍♂‍ Fun fact: Love surfing and snowboarding, also love music and sports in general.
+
+<br><br>
+## Show Case Projects
+
+- At Le Wagon Bootcamp, we worked a lot with Ruby and Ruby on Rails. We worked in teams for the final project... and here it is:
+
+ 💻 see the Github Code: https://github.com/Edwardtoonela/travel-tribe
+ 👀 see it live: http://www.trvltribe.com/
+ 
+ - After Le Wagon, I kept (and still am) studying... Now, Focusing React/Nextks/Typescript here is an example of a cool project I've worked on, following Rocketseat React course:
+
+ 💻 see the Github Code: https://github.com/dancosta-fed/dcnews
+ 👀 see it live: https://dcnews.vercel.app/
+
+
 <br><br>
 &nbsp; Connect with Me
 
