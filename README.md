@@ -37,12 +37,12 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 
 - At Le Wagon Bootcamp, we worked a lot with Ruby and Ruby on Rails. We worked in teams for the final project... and here it is:
 
- 💻 see the Github Code: https://github.com/Edwardtoonela/travel-tribe
+ 💻 see the Github Code: https://github.com/Edwardtoonela/travel-tribe<br>
  👀 see it live: http://www.trvltribe.com/
  
  - After Le Wagon, I kept (and still am) studying... Now, Focusing React/Nextks/Typescript here is an example of a cool project I've worked on, following Rocketseat React course:
 
- 💻 see the Github Code: https://github.com/dancosta-fed/dcnews
+ 💻 see the Github Code: https://github.com/dancosta-fed/dcnews<br>
  👀 see it live: https://dcnews.vercel.app/
 
 
