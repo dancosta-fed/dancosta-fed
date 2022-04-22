@@ -27,25 +27,59 @@ But I soon realize I would need more in-depth study. Thus, I've enrolled in an H
 TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em>Full Stack Rails Development</em>.
 
 
-- 🔭 I'm still improving my React and Js skills
-- 🙂 Also learning and practicing TDD
+- 🔭 I'm always open to learning new things, and
 - 🤓 I'm looking forward to work and collaborate in new projects
 - 🏄‍♂‍ Fun fact: Love surfing and snowboarding, also love music and sports in general.
 
 <br><br>
 ## Show Case Projects
 
+<i><strong>Ruby on Rails</strong><i/>
+
 - At Le Wagon Bootcamp, we worked a lot with Ruby and Ruby on Rails. We worked in teams for the final project... and here it is:
 
  💻 see the Github Code: https://github.com/Edwardtoonela/travel-tribe<br>
  👀 see it live: http://www.trvltribe.com/
  
- - After Le Wagon, I kept (and still am) studying... Now, Focusing React/Nextks/Typescript here is an example of a cool project I've worked on, following Rocketseat React course:
+ - Trippy Boats is a project to simulate AirBnB. But instead of doing the obvious. We've done an Airbnb for boats:
+ 
+  💻  https://github.com/dancosta-fed/trippy-boats<br>
+  👀 see it live: https://trippy-boats.herokuapp.com/
+ 
+ - Here's a Watch List. Using an API with only a few movies. The goal of this one was a place where you can create and add movie watch lists and add movies to it.
+ 
+  💻  https://github.com/dancosta-fed/rails-watch-list<br>
+  👀 see it live: https://movies-bookmark-rails.herokuapp.com/
+ 
+ - In order to improve my Rails experience. I've started studying and working with RSpec. Here's an algorithm I've done:
+ 
+  💻  https://github.com/dancosta-fed/algorithm_circleops
+ 
+ 
+ <br><br>
+ <i><strong>Front End</strong><i/>
+  
 
- 💻 see the Github Code: https://github.com/dancosta-fed/dcnews<br>
- 👀 see it live: https://dcnews.vercel.app/
+  - My Portfolio is also a show case. I've done it using React inside Rails. Haven't used much of backend on this one though.
+  
+  💻  https://github.com/dancosta-fed/dancosta-portfolio<br>
+  👀 see it live: https://portfolio-dancosta.herokuapp.com/
+  
+  - Started following the Ignite React Course (Rocketseat). And Created this News App. Connected it to <strong>Stripe</strong>. Used FaunaDB for data base. <strong>Typescript</strong> and <strong>Next.js</strong> where used in this application.
 
+  💻 see the Github Code: https://github.com/dancosta-fed/dcnews<br>
+  👀 see it live: https://dcnews.vercel.app/
 
+  - I've created an app with <strong>React</strong> where you can track your daily expenses:
+  
+  💻  https://github.com/dancosta-fed/expenses-app<br>
+  👀 see it live: https://addexpenses.herokuapp.com/
+  
+  - Dc DashGo is a dashboard. Where I use authentications, miragejs, React Query... and also Chakra UI. <strong>Typescript</strong> and <strong>Next.js</strong> where used in this application.
+  💻  https://github.com/dancosta-fed/dc-dashgo
+  👀 see it live: https://dc-dashgo.vercel.app/dashboard
+  
+  
 <br><br>
 &nbsp; Connect with Me
 
@@ -56,23 +90,32 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 
 ## 🛠 &nbsp; My Tech Stack
 <br><br>
+  
+  ### Back End
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width=40 /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width=40 />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width=40 /> 
+
+<br><br>
+### Front End
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="tsc" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+
+<br><br>
+### Complementary
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=40 /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=40 /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=40 /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width=40 /> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">
-
-### Improving
-<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="tsc" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
 <br><br>
 <hr>
