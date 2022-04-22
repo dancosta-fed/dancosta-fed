@@ -75,7 +75,7 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
   💻  https://github.com/dancosta-fed/expenses-app<br>
   👀 see it live: https://addexpenses.herokuapp.com/
   
-  - Dc DashGo is a dashboard. Where I use authentications, miragejs, React Query... and also Chakra UI. <strong>Typescript</strong> and <strong>Next.js</strong> where used in this application.
+  - Dc DashGo is a dashboard. Where I use authentications, miragejs, React Query... and also Chakra UI. <strong>Typescript</strong> and <strong>Next.js</strong> where used in this application. (In PROGRESS)
   💻  https://github.com/dancosta-fed/dc-dashgo
   👀 see it live: https://dc-dashgo.vercel.app/dashboard
   
