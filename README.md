@@ -38,9 +38,10 @@ I have been improving my <b>React</b> skills using <b>Typescript</b> and also wi
  User can be created | Login and Logout | Home page and Dashboard
  
  💻 see the Github Code (backend - Rails): https://github.com/dancosta-fed/restaurants-api
-  💻 see the Github Code (frontend - Nextjs/Typescript): https://github.com/dancosta-fed/auth_next_app
  
+ 💻 see the Github Code (frontend - Nextjs/Typescript): https://github.com/dancosta-fed/auth_next_app
  
+ <br><br>
 <i><strong>Ruby on Rails</strong><i/>
 
 - At Le Wagon Bootcamp, we worked a lot with Ruby and Ruby on Rails. We worked in teams for the final project... and here it is:
