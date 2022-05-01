@@ -20,11 +20,9 @@ Here are some ideas to get you started:
  <p/>
 <h1 align="center"> Kia Ora! I'm Daniel! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I've decided to change careers completely and becoming a Software Developer. Started by trying to learn it all by myself and by watching youtube videos. I had some previous HTML experience when I had to deliver some content to a client in HTML format. (So I dig and learnt a bit).
+My  <b>Ruby</b> on Rails skills include <em>Object-Oriented Programming, CRUD, Authorisation, Pundit, Devise, MVC</em>. I'm also improving on TDD (RSpec), Background Jobs and Sidekiq.
 
-But I soon realize I would need more in-depth study. Thus, I've enrolled in an HTML and CSS course on
-<em>Udemy</em>. Then, together with that, I've enrolled in the Front End Development <strong>TechDegree</strong> at
-TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em>Full Stack Rails Development</em>.
+I have been improving my <b>React</b> skills using <b>Typescript</b> and also with <b>Nextjs</b>. I have a good understanding of  <em>CSS/SASS, Styled Components</em> and am improving on <em>Chakra UI</em>. I also have some experience working with <em>CMS</em>, such as Prismic.
 
 
 - 🔭 I'm always open to learning new things, and
@@ -34,6 +32,15 @@ TeamThreeHouse. I've finished that and enrolled to <strong>Le Wagon</strong> <em
 <br><br>
 ## Show Case Projects
 
+<i><strong>Full Stack</strong><i/>
+ - I've created a simple authentication app from scratch. Created the API using Ruby on Rails and using Nextjs and Tpescript, I've done the interface.
+ 
+ User can be created | Login and Logout | Home page and Dashboard
+ 
+ 💻 see the Github Code (backend - Rails): https://github.com/dancosta-fed/restaurants-api
+  💻 see the Github Code (frontend - Nextjs/Typescript): https://github.com/dancosta-fed/auth_next_app
+ 
+ 
 <i><strong>Ruby on Rails</strong><i/>
 
 - At Le Wagon Bootcamp, we worked a lot with Ruby and Ruby on Rails. We worked in teams for the final project... and here it is:
