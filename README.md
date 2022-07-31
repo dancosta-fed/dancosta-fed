@@ -20,6 +20,8 @@ Here are some ideas to get you started:
  <p/>
 <h1 align="center"> Kia Ora! I'm Daniel! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
+I'm a software developer who's working with mobile development. I've been working with <b>NativeScript-Vue</b> and <b>React Native</b>.
+
 My  <b>Ruby</b> on Rails skills include <em>Object-Oriented Programming, CRUD, Authorisation, Pundit, Devise, MVC</em>. I'm also improving on TDD (RSpec), Background Jobs and Sidekiq.
 
 I have been improving my <b>React</b> skills using <b>Typescript</b> and also with <b>Nextjs</b>. I have a good understanding of  <em>CSS/SASS, Styled Components</em> and am improving on <em>Chakra UI</em>. I also have some experience working with <em>CMS</em>, such as Prismic.
@@ -98,6 +100,7 @@ I have been improving my <b>React</b> skills using <b>Typescript</b> and also wi
 
 ## 🛠 &nbsp; My Tech Stack
 <br><br>
+
   
   ### Back End
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width=40 /> 
