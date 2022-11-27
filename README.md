@@ -22,12 +22,11 @@ I'm a software developer who's working as a mobile developer. I've been working 
 ## 🛠 &nbsp; My Tech Stack
 <br><br>
 
-  <h3>React</h3>;
-  <h3>React Native</h3>;
-  <h3>Nativescript-Vue</h3>;
+  <h3>React</h3>
+  <h3>React Native</h3>
+  <h3>Nativescript-Vue</h3>
   <h3>Ruby on Rails</h3>
 
-<br><br>
 <hr>
 
 ## ⚙️ &nbsp; My Git Analytics
