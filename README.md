@@ -5,7 +5,7 @@
  <p/>
 <h1 align="center"> Oi! I'm Daniel! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm a software developer who's working as a mobile developer. I've been working with <b>React Native</b> with <b>Typescript</b> and <b>NativeScript-Vue</b>.
+I'm a software developer (Typescript) who's working as a mobile developer. I've been working with <b>React Native</b>, <b>Node.js</b> and <b>NativeScript-Vue</b>.
 
 - 🔭 I'm always open to learning new things, and
 - 🤓 I'm looking forward to work and collaborate in new projects
