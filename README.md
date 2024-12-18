@@ -23,11 +23,13 @@ I'm a software developer (Typescript) who's working as a mobile developer. I've 
 <br><br>
 
   <h3>React</h3>
-  <h3>React Native</h3>
   <h3>Typescript</h3>
-  <h3>Nativescript-Vue</h3>
-  <h3>Ruby on Rails</h3>
 
+  <h3>Java</h3>
+  <h3>Ruby on Rails</h3>
+  
+  <h3>React Native</h3>
+  <h3>Nativescript-Vue</h3>
 <hr>
 
 ## ⚙️ &nbsp; My Git Analytics
